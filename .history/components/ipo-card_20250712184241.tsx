@@ -1,0 +1,1 @@
+public/uploads/filename.png
